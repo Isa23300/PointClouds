@@ -1,0 +1,224 @@
+2023-07-22 15:21:57,753 - pointconv - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2023-07-22 15:21:57,753 - pointconv - INFO - PARAMETER ...
+2023-07-22 15:21:57,753 - pointconv - INFO - Namespace(batchsize=4, decay_rate=0.0001, epoch=1, gpu='0', learning_rate=1e-06, model_name='pointconv', normal=False, num_point=1024, num_workers=2, optimizer='Adam', pretrain=None)
+2023-07-22 15:21:57,754 - pointconv - INFO - Load dataset ...
+2023-07-22 15:21:57,756 - pointconv - INFO - The number of training data is: 80
+2023-07-22 15:21:57,756 - pointconv - INFO - The number of test data is: 24
+2023-07-22 15:22:01,574 - pointconv - INFO - Start training...
+2023-07-22 15:22:01,575 - pointconv - INFO - Epoch 1 (1/1):
+2023-07-22 15:22:16,017 - pointconv - INFO - Train Accuracy: 0.500000
+2023-07-22 15:22:16,018 - pointconv - INFO - Train Loss: 0.751927
+2023-07-22 15:22:21,133 - pointconv - INFO - Loss: 0.75
+2023-07-22 15:22:21,139 - pointconv - INFO - Test Accuracy: 0.500000  *** Best Test Accuracy: 0.000000
+2023-07-22 15:22:21,139 - pointconv - INFO - End of training...
+2023-07-22 15:22:21,152 - pointconv - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2023-07-22 15:22:21,152 - pointconv - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2023-07-22 15:22:21,152 - pointconv - INFO - PARAMETER ...
+2023-07-22 15:22:21,152 - pointconv - INFO - PARAMETER ...
+2023-07-22 15:22:21,153 - pointconv - INFO - Namespace(batchsize=4, decay_rate=0.0001, epoch=1, gpu='0', learning_rate=1e-06, model_name='pointconv', normal=False, num_point=1024, num_workers=2, optimizer='Adam', pretrain=None)
+2023-07-22 15:22:21,153 - pointconv - INFO - Namespace(batchsize=4, decay_rate=0.0001, epoch=1, gpu='0', learning_rate=1e-06, model_name='pointconv', normal=False, num_point=1024, num_workers=2, optimizer='Adam', pretrain=None)
+2023-07-22 15:22:21,153 - pointconv - INFO - Load dataset ...
+2023-07-22 15:22:21,153 - pointconv - INFO - Load dataset ...
+2023-07-22 15:22:21,157 - pointconv - INFO - The number of training data is: 80
+2023-07-22 15:22:21,157 - pointconv - INFO - The number of training data is: 80
+2023-07-22 15:22:21,157 - pointconv - INFO - The number of test data is: 24
+2023-07-22 15:22:21,157 - pointconv - INFO - The number of test data is: 24
+2023-07-22 15:22:21,294 - pointconv - INFO - Start training...
+2023-07-22 15:22:21,294 - pointconv - INFO - Start training...
+2023-07-22 15:22:21,296 - pointconv - INFO - Epoch 1 (1/1):
+2023-07-22 15:22:21,296 - pointconv - INFO - Epoch 1 (1/1):
+2023-07-22 15:22:32,216 - pointconv - INFO - Train Accuracy: 0.575000
+2023-07-22 15:22:32,216 - pointconv - INFO - Train Accuracy: 0.575000
+2023-07-22 15:22:32,217 - pointconv - INFO - Train Loss: 0.695271
+2023-07-22 15:22:32,217 - pointconv - INFO - Train Loss: 0.695271
+2023-07-22 15:22:37,040 - pointconv - INFO - Loss: 0.70
+2023-07-22 15:22:37,040 - pointconv - INFO - Loss: 0.70
+2023-07-22 15:22:37,040 - pointconv - INFO - Test Accuracy: 0.500000  *** Best Test Accuracy: 0.000000
+2023-07-22 15:22:37,040 - pointconv - INFO - Test Accuracy: 0.500000  *** Best Test Accuracy: 0.000000
+2023-07-22 15:22:37,041 - pointconv - INFO - End of training...
+2023-07-22 15:22:37,041 - pointconv - INFO - End of training...
+2023-07-22 15:22:37,044 - pointconv - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2023-07-22 15:22:37,044 - pointconv - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2023-07-22 15:22:37,044 - pointconv - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2023-07-22 15:22:37,044 - pointconv - INFO - PARAMETER ...
+2023-07-22 15:22:37,044 - pointconv - INFO - PARAMETER ...
+2023-07-22 15:22:37,044 - pointconv - INFO - PARAMETER ...
+2023-07-22 15:22:37,044 - pointconv - INFO - Namespace(batchsize=4, decay_rate=0.0001, epoch=1, gpu='0', learning_rate=1e-06, model_name='pointconv', normal=False, num_point=1024, num_workers=2, optimizer='Adam', pretrain=None)
+2023-07-22 15:22:37,044 - pointconv - INFO - Namespace(batchsize=4, decay_rate=0.0001, epoch=1, gpu='0', learning_rate=1e-06, model_name='pointconv', normal=False, num_point=1024, num_workers=2, optimizer='Adam', pretrain=None)
+2023-07-22 15:22:37,044 - pointconv - INFO - Namespace(batchsize=4, decay_rate=0.0001, epoch=1, gpu='0', learning_rate=1e-06, model_name='pointconv', normal=False, num_point=1024, num_workers=2, optimizer='Adam', pretrain=None)
+2023-07-22 15:22:37,044 - pointconv - INFO - Load dataset ...
+2023-07-22 15:22:37,044 - pointconv - INFO - Load dataset ...
+2023-07-22 15:22:37,044 - pointconv - INFO - Load dataset ...
+2023-07-22 15:22:37,047 - pointconv - INFO - The number of training data is: 80
+2023-07-22 15:22:37,047 - pointconv - INFO - The number of training data is: 80
+2023-07-22 15:22:37,047 - pointconv - INFO - The number of training data is: 80
+2023-07-22 15:22:37,047 - pointconv - INFO - The number of test data is: 24
+2023-07-22 15:22:37,047 - pointconv - INFO - The number of test data is: 24
+2023-07-22 15:22:37,047 - pointconv - INFO - The number of test data is: 24
+2023-07-22 15:22:37,178 - pointconv - INFO - Start training...
+2023-07-22 15:22:37,178 - pointconv - INFO - Start training...
+2023-07-22 15:22:37,178 - pointconv - INFO - Start training...
+2023-07-22 15:22:37,178 - pointconv - INFO - Epoch 1 (1/1):
+2023-07-22 15:22:37,178 - pointconv - INFO - Epoch 1 (1/1):
+2023-07-22 15:22:37,178 - pointconv - INFO - Epoch 1 (1/1):
+2023-07-22 15:23:52,134 - pointconv - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2023-07-22 15:23:52,134 - pointconv - INFO - PARAMETER ...
+2023-07-22 15:23:52,134 - pointconv - INFO - Namespace(batchsize=4, decay_rate=0.0001, epoch=1, gpu='0', learning_rate=1e-06, model_name='pointconv', normal=False, num_point=1024, num_workers=2, optimizer='Adam', pretrain=None)
+2023-07-22 15:23:52,134 - pointconv - INFO - Load dataset ...
+2023-07-22 15:23:52,135 - pointconv - INFO - The number of training data is: 80
+2023-07-22 15:23:52,135 - pointconv - INFO - The number of test data is: 24
+2023-07-22 15:23:55,645 - pointconv - INFO - Start training...
+2023-07-22 15:23:55,645 - pointconv - INFO - Epoch 1 (1/1):
+2023-07-22 15:24:09,269 - pointconv - INFO - Train Accuracy: 0.575000
+2023-07-22 15:24:09,269 - pointconv - INFO - Train Loss: 0.475273
+2023-07-22 15:24:13,917 - pointconv - INFO - Loss: 0.48
+2023-07-22 15:24:13,922 - pointconv - INFO - Test Accuracy: 0.500000  *** Best Test Accuracy: 0.000000
+2023-07-22 15:24:13,922 - pointconv - INFO - End of training...
+2023-07-22 15:24:13,939 - pointconv - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2023-07-22 15:24:13,939 - pointconv - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2023-07-22 15:24:13,939 - pointconv - INFO - PARAMETER ...
+2023-07-22 15:24:13,939 - pointconv - INFO - PARAMETER ...
+2023-07-22 15:24:13,939 - pointconv - INFO - Namespace(batchsize=4, decay_rate=0.0001, epoch=1, gpu='0', learning_rate=1e-06, model_name='pointconv', normal=False, num_point=1024, num_workers=2, optimizer='Adam', pretrain=None)
+2023-07-22 15:24:13,939 - pointconv - INFO - Namespace(batchsize=4, decay_rate=0.0001, epoch=1, gpu='0', learning_rate=1e-06, model_name='pointconv', normal=False, num_point=1024, num_workers=2, optimizer='Adam', pretrain=None)
+2023-07-22 15:24:13,939 - pointconv - INFO - Load dataset ...
+2023-07-22 15:24:13,939 - pointconv - INFO - Load dataset ...
+2023-07-22 15:24:13,942 - pointconv - INFO - The number of training data is: 80
+2023-07-22 15:24:13,942 - pointconv - INFO - The number of training data is: 80
+2023-07-22 15:24:13,942 - pointconv - INFO - The number of test data is: 24
+2023-07-22 15:24:13,942 - pointconv - INFO - The number of test data is: 24
+2023-07-22 15:24:14,080 - pointconv - INFO - Start training...
+2023-07-22 15:24:14,080 - pointconv - INFO - Start training...
+2023-07-22 15:24:14,080 - pointconv - INFO - Epoch 1 (1/1):
+2023-07-22 15:24:14,080 - pointconv - INFO - Epoch 1 (1/1):
+2023-07-22 15:24:24,670 - pointconv - INFO - Train Accuracy: 0.562500
+2023-07-22 15:24:24,670 - pointconv - INFO - Train Accuracy: 0.562500
+2023-07-22 15:24:24,671 - pointconv - INFO - Train Loss: 0.555685
+2023-07-22 15:24:24,671 - pointconv - INFO - Train Loss: 0.555685
+2023-07-22 15:24:29,253 - pointconv - INFO - Loss: 0.56
+2023-07-22 15:24:29,253 - pointconv - INFO - Loss: 0.56
+2023-07-22 15:24:29,253 - pointconv - INFO - Test Accuracy: 0.500000  *** Best Test Accuracy: 0.000000
+2023-07-22 15:24:29,253 - pointconv - INFO - Test Accuracy: 0.500000  *** Best Test Accuracy: 0.000000
+2023-07-22 15:24:29,253 - pointconv - INFO - End of training...
+2023-07-22 15:24:29,253 - pointconv - INFO - End of training...
+2023-07-22 15:24:29,257 - pointconv - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2023-07-22 15:24:29,257 - pointconv - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2023-07-22 15:24:29,257 - pointconv - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2023-07-22 15:24:29,257 - pointconv - INFO - PARAMETER ...
+2023-07-22 15:24:29,257 - pointconv - INFO - PARAMETER ...
+2023-07-22 15:24:29,257 - pointconv - INFO - PARAMETER ...
+2023-07-22 15:24:29,257 - pointconv - INFO - Namespace(batchsize=4, decay_rate=0.0001, epoch=1, gpu='0', learning_rate=1e-06, model_name='pointconv', normal=False, num_point=1024, num_workers=2, optimizer='Adam', pretrain=None)
+2023-07-22 15:24:29,257 - pointconv - INFO - Namespace(batchsize=4, decay_rate=0.0001, epoch=1, gpu='0', learning_rate=1e-06, model_name='pointconv', normal=False, num_point=1024, num_workers=2, optimizer='Adam', pretrain=None)
+2023-07-22 15:24:29,257 - pointconv - INFO - Namespace(batchsize=4, decay_rate=0.0001, epoch=1, gpu='0', learning_rate=1e-06, model_name='pointconv', normal=False, num_point=1024, num_workers=2, optimizer='Adam', pretrain=None)
+2023-07-22 15:24:29,258 - pointconv - INFO - Load dataset ...
+2023-07-22 15:24:29,258 - pointconv - INFO - Load dataset ...
+2023-07-22 15:24:29,258 - pointconv - INFO - Load dataset ...
+2023-07-22 15:24:29,259 - pointconv - INFO - The number of training data is: 80
+2023-07-22 15:24:29,259 - pointconv - INFO - The number of training data is: 80
+2023-07-22 15:24:29,259 - pointconv - INFO - The number of training data is: 80
+2023-07-22 15:24:29,259 - pointconv - INFO - The number of test data is: 24
+2023-07-22 15:24:29,259 - pointconv - INFO - The number of test data is: 24
+2023-07-22 15:24:29,259 - pointconv - INFO - The number of test data is: 24
+2023-07-22 15:24:29,385 - pointconv - INFO - Start training...
+2023-07-22 15:24:29,385 - pointconv - INFO - Start training...
+2023-07-22 15:24:29,385 - pointconv - INFO - Start training...
+2023-07-22 15:24:29,385 - pointconv - INFO - Epoch 1 (1/1):
+2023-07-22 15:24:29,385 - pointconv - INFO - Epoch 1 (1/1):
+2023-07-22 15:24:29,385 - pointconv - INFO - Epoch 1 (1/1):
+2023-07-22 15:24:40,137 - pointconv - INFO - Train Accuracy: 0.587500
+2023-07-22 15:24:40,137 - pointconv - INFO - Train Accuracy: 0.587500
+2023-07-22 15:24:40,137 - pointconv - INFO - Train Accuracy: 0.587500
+2023-07-22 15:24:40,137 - pointconv - INFO - Train Loss: 0.657839
+2023-07-22 15:24:40,137 - pointconv - INFO - Train Loss: 0.657839
+2023-07-22 15:24:40,137 - pointconv - INFO - Train Loss: 0.657839
+2023-07-22 15:24:44,878 - pointconv - INFO - Loss: 0.66
+2023-07-22 15:24:44,878 - pointconv - INFO - Loss: 0.66
+2023-07-22 15:24:44,878 - pointconv - INFO - Loss: 0.66
+2023-07-22 15:24:44,878 - pointconv - INFO - Test Accuracy: 0.500000  *** Best Test Accuracy: 0.000000
+2023-07-22 15:24:44,878 - pointconv - INFO - Test Accuracy: 0.500000  *** Best Test Accuracy: 0.000000
+2023-07-22 15:24:44,878 - pointconv - INFO - Test Accuracy: 0.500000  *** Best Test Accuracy: 0.000000
+2023-07-22 15:24:44,878 - pointconv - INFO - End of training...
+2023-07-22 15:24:44,878 - pointconv - INFO - End of training...
+2023-07-22 15:24:44,878 - pointconv - INFO - End of training...
+2023-07-22 15:24:44,881 - pointconv - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2023-07-22 15:24:44,881 - pointconv - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2023-07-22 15:24:44,881 - pointconv - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2023-07-22 15:24:44,881 - pointconv - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2023-07-22 15:24:44,882 - pointconv - INFO - PARAMETER ...
+2023-07-22 15:24:44,882 - pointconv - INFO - PARAMETER ...
+2023-07-22 15:24:44,882 - pointconv - INFO - PARAMETER ...
+2023-07-22 15:24:44,882 - pointconv - INFO - PARAMETER ...
+2023-07-22 15:24:44,882 - pointconv - INFO - Namespace(batchsize=4, decay_rate=0.0001, epoch=1, gpu='0', learning_rate=1e-06, model_name='pointconv', normal=False, num_point=1024, num_workers=2, optimizer='Adam', pretrain=None)
+2023-07-22 15:24:44,882 - pointconv - INFO - Namespace(batchsize=4, decay_rate=0.0001, epoch=1, gpu='0', learning_rate=1e-06, model_name='pointconv', normal=False, num_point=1024, num_workers=2, optimizer='Adam', pretrain=None)
+2023-07-22 15:24:44,882 - pointconv - INFO - Namespace(batchsize=4, decay_rate=0.0001, epoch=1, gpu='0', learning_rate=1e-06, model_name='pointconv', normal=False, num_point=1024, num_workers=2, optimizer='Adam', pretrain=None)
+2023-07-22 15:24:44,882 - pointconv - INFO - Namespace(batchsize=4, decay_rate=0.0001, epoch=1, gpu='0', learning_rate=1e-06, model_name='pointconv', normal=False, num_point=1024, num_workers=2, optimizer='Adam', pretrain=None)
+2023-07-22 15:24:44,882 - pointconv - INFO - Load dataset ...
+2023-07-22 15:24:44,882 - pointconv - INFO - Load dataset ...
+2023-07-22 15:24:44,882 - pointconv - INFO - Load dataset ...
+2023-07-22 15:24:44,882 - pointconv - INFO - Load dataset ...
+2023-07-22 15:24:44,884 - pointconv - INFO - The number of training data is: 80
+2023-07-22 15:24:44,884 - pointconv - INFO - The number of training data is: 80
+2023-07-22 15:24:44,884 - pointconv - INFO - The number of training data is: 80
+2023-07-22 15:24:44,884 - pointconv - INFO - The number of training data is: 80
+2023-07-22 15:24:44,884 - pointconv - INFO - The number of test data is: 24
+2023-07-22 15:24:44,884 - pointconv - INFO - The number of test data is: 24
+2023-07-22 15:24:44,884 - pointconv - INFO - The number of test data is: 24
+2023-07-22 15:24:44,884 - pointconv - INFO - The number of test data is: 24
+2023-07-22 15:24:45,043 - pointconv - INFO - Start training...
+2023-07-22 15:24:45,043 - pointconv - INFO - Start training...
+2023-07-22 15:24:45,043 - pointconv - INFO - Start training...
+2023-07-22 15:24:45,043 - pointconv - INFO - Start training...
+2023-07-22 15:24:45,043 - pointconv - INFO - Epoch 1 (1/1):
+2023-07-22 15:24:45,043 - pointconv - INFO - Epoch 1 (1/1):
+2023-07-22 15:24:45,043 - pointconv - INFO - Epoch 1 (1/1):
+2023-07-22 15:24:45,043 - pointconv - INFO - Epoch 1 (1/1):
+2023-07-22 15:24:56,474 - pointconv - INFO - Train Accuracy: 0.550000
+2023-07-22 15:24:56,474 - pointconv - INFO - Train Accuracy: 0.550000
+2023-07-22 15:24:56,474 - pointconv - INFO - Train Accuracy: 0.550000
+2023-07-22 15:24:56,474 - pointconv - INFO - Train Accuracy: 0.550000
+2023-07-22 15:24:56,476 - pointconv - INFO - Train Loss: 0.513950
+2023-07-22 15:24:56,476 - pointconv - INFO - Train Loss: 0.513950
+2023-07-22 15:24:56,476 - pointconv - INFO - Train Loss: 0.513950
+2023-07-22 15:24:56,476 - pointconv - INFO - Train Loss: 0.513950
+2023-07-22 15:25:01,672 - pointconv - INFO - Loss: 0.51
+2023-07-22 15:25:01,672 - pointconv - INFO - Loss: 0.51
+2023-07-22 15:25:01,672 - pointconv - INFO - Loss: 0.51
+2023-07-22 15:25:01,672 - pointconv - INFO - Loss: 0.51
+2023-07-22 15:25:01,674 - pointconv - INFO - Test Accuracy: 0.500000  *** Best Test Accuracy: 0.000000
+2023-07-22 15:25:01,674 - pointconv - INFO - Test Accuracy: 0.500000  *** Best Test Accuracy: 0.000000
+2023-07-22 15:25:01,674 - pointconv - INFO - Test Accuracy: 0.500000  *** Best Test Accuracy: 0.000000
+2023-07-22 15:25:01,674 - pointconv - INFO - Test Accuracy: 0.500000  *** Best Test Accuracy: 0.000000
+2023-07-22 15:25:01,674 - pointconv - INFO - End of training...
+2023-07-22 15:25:01,674 - pointconv - INFO - End of training...
+2023-07-22 15:25:01,674 - pointconv - INFO - End of training...
+2023-07-22 15:25:01,674 - pointconv - INFO - End of training...
+2023-07-22 15:36:52,933 - pointconv - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2023-07-22 15:36:52,933 - pointconv - INFO - PARAMETER ...
+2023-07-22 15:36:52,933 - pointconv - INFO - Namespace(batchsize=4, decay_rate=0.0001, epoch=40, gpu='0', learning_rate=1e-06, model_name='pointconv', normal=False, num_point=1024, num_workers=2, optimizer='Adam', pretrain=None)
+2023-07-22 15:36:52,933 - pointconv - INFO - Load dataset ...
+2023-07-22 15:36:52,935 - pointconv - INFO - The number of training data is: 80
+2023-07-22 15:36:52,935 - pointconv - INFO - The number of test data is: 24
+2023-07-22 15:36:56,572 - pointconv - INFO - Start training...
+2023-07-22 15:36:56,572 - pointconv - INFO - Epoch 1 (1/40):
+2023-07-22 15:38:23,033 - pointconv - INFO - ---------------------------------------------------TRANING---------------------------------------------------
+2023-07-22 15:38:23,033 - pointconv - INFO - PARAMETER ...
+2023-07-22 15:38:23,033 - pointconv - INFO - Namespace(batchsize=4, decay_rate=0.0001, epoch=40, gamma=0.5, gpu='0', learning_rate=1e-06, model_name='pointconv', normal=False, num_point=1024, num_workers=2, optimizer='Adam', pretrain=None, stepsize=5)
+2023-07-22 15:38:23,033 - pointconv - INFO - Load dataset ...
+2023-07-22 15:38:23,034 - pointconv - INFO - The number of training data is: 80
+2023-07-22 15:38:23,034 - pointconv - INFO - The number of test data is: 24
+2023-07-22 15:38:26,424 - pointconv - INFO - Start training...
+2023-07-22 15:38:26,424 - pointconv - INFO - Epoch 1 (1/40):
+2023-07-22 15:38:41,344 - pointconv - INFO - Train Accuracy: 0.512500
+2023-07-22 15:38:41,346 - pointconv - INFO - Train Loss: 0.571983
+2023-07-22 15:38:45,981 - pointconv - INFO - Loss: 0.57
+2023-07-22 15:38:45,988 - pointconv - INFO - Test Accuracy: 0.500000  *** Best Test Accuracy: 0.000000
+2023-07-22 15:38:45,988 - pointconv - INFO - Epoch 2 (2/40):
+2023-07-22 15:38:57,908 - pointconv - INFO - Train Accuracy: 0.537500
+2023-07-22 15:38:57,908 - pointconv - INFO - Train Loss: 1.240021
+2023-07-22 15:39:02,778 - pointconv - INFO - Loss: 1.24
+2023-07-22 15:39:02,778 - pointconv - INFO - Test Accuracy: 0.500000  *** Best Test Accuracy: 0.000000
+2023-07-22 15:39:02,778 - pointconv - INFO - Epoch 3 (3/40):
+2023-07-22 15:39:13,598 - pointconv - INFO - Train Accuracy: 0.562500
+2023-07-22 15:39:13,598 - pointconv - INFO - Train Loss: 1.734084
+2023-07-22 15:39:18,389 - pointconv - INFO - Loss: 1.73
+2023-07-22 15:39:18,389 - pointconv - INFO - Test Accuracy: 0.500000  *** Best Test Accuracy: 0.000000
+2023-07-22 15:39:18,389 - pointconv - INFO - Epoch 4 (4/40):

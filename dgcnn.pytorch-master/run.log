@@ -1,0 +1,195 @@
+2023-07-23 20:33:09,990 - Model - INFO - Namespace(batch_size=4, dataset='modelnet40', dropout=0.5, emb_dims=1024, epochs=3, eval=False, exp_name='cut1_1024_2023-07-23_20-33', k=20, log_dir=None, lr=0.0005, model='dgcnn', model_path='', momentum=0.9, no_cuda=False, num_points=1024, scheduler='cos', seed=1, test_batch_size=4, use_sgd=True)
+2023-07-23 20:33:11,103 - Model - INFO - Using GPU : 0 from 1 devices
+2023-07-23 20:33:41,108 - Model - INFO - Train 0, loss: 5.815097, train acc: 0.527344, train avg acc: 0.491729
+2023-07-23 20:38:29,828 - Model - INFO - Namespace(batch_size=4, dataset='modelnet40', dropout=0.5, emb_dims=1024, epochs=500, eval=False, exp_name='cut1_1024_2023-07-23_20-38', k=20, log_dir=None, lr=0.0005, model='dgcnn', model_path='', momentum=0.9, no_cuda=False, num_points=1024, scheduler='cos', seed=1, test_batch_size=4, use_sgd=False)
+2023-07-23 20:38:30,919 - Model - INFO - Using GPU : 0 from 1 devices
+2023-07-23 20:39:03,277 - Model - INFO - Train 0, loss: 0.737092, train acc: 0.560547, train avg acc: 0.516157
+2023-07-23 20:39:15,065 - Model - INFO - Test 0, loss: 0.722030, test acc: 0.522523, test avg acc: 0.538727
+2023-07-23 20:39:41,265 - Model - INFO - Train 1, loss: 0.701638, train acc: 0.591797, train avg acc: 0.509607
+2023-07-23 20:39:52,776 - Model - INFO - Test 1, loss: 0.676788, test acc: 0.603604, test avg acc: 0.511021
+2023-07-23 20:40:19,307 - Model - INFO - Train 2, loss: 0.683083, train acc: 0.603516, train avg acc: 0.523101
+2023-07-23 20:40:30,783 - Model - INFO - Test 2, loss: 0.700248, test acc: 0.581081, test avg acc: 0.510534
+2023-07-23 20:40:55,917 - Model - INFO - Train 3, loss: 0.675926, train acc: 0.607422, train avg acc: 0.537389
+2023-07-23 20:41:07,094 - Model - INFO - Test 3, loss: 0.694764, test acc: 0.599099, test avg acc: 0.504692
+2023-07-23 20:41:32,931 - Model - INFO - Train 4, loss: 0.666002, train acc: 0.646484, train avg acc: 0.565097
+2023-07-23 20:41:44,033 - Model - INFO - Test 4, loss: 0.669109, test acc: 0.617117, test avg acc: 0.484686
+2023-07-23 20:42:09,567 - Model - INFO - Train 5, loss: 0.630396, train acc: 0.652344, train avg acc: 0.577139
+2023-07-23 20:42:20,973 - Model - INFO - Test 5, loss: 0.668073, test acc: 0.594595, test avg acc: 0.555015
+2023-07-23 20:42:46,146 - Model - INFO - Train 6, loss: 0.657109, train acc: 0.611328, train avg acc: 0.535847
+2023-07-23 20:42:57,434 - Model - INFO - Test 6, loss: 0.710016, test acc: 0.554054, test avg acc: 0.503718
+2023-07-23 20:43:22,629 - Model - INFO - Train 7, loss: 0.630855, train acc: 0.644531, train avg acc: 0.565301
+2023-07-23 20:43:33,708 - Model - INFO - Test 7, loss: 0.661809, test acc: 0.603604, test avg acc: 0.525184
+2023-07-23 20:43:58,940 - Model - INFO - Train 8, loss: 0.649025, train acc: 0.656250, train avg acc: 0.583017
+2023-07-23 20:44:10,128 - Model - INFO - Test 8, loss: 0.700211, test acc: 0.558559, test avg acc: 0.535540
+2023-07-23 20:44:35,622 - Model - INFO - Train 9, loss: 0.594949, train acc: 0.703125, train avg acc: 0.631702
+2023-07-23 20:44:46,461 - Model - INFO - Test 9, loss: 0.703864, test acc: 0.576577, test avg acc: 0.566522
+2023-07-23 20:45:11,701 - Model - INFO - Train 10, loss: 0.622714, train acc: 0.658203, train avg acc: 0.597945
+2023-07-23 20:45:22,666 - Model - INFO - Test 10, loss: 0.848219, test acc: 0.432432, test avg acc: 0.505621
+2023-07-23 20:45:47,686 - Model - INFO - Train 11, loss: 0.611625, train acc: 0.683594, train avg acc: 0.611622
+2023-07-23 20:45:59,085 - Model - INFO - Test 11, loss: 0.658972, test acc: 0.635135, test avg acc: 0.541161
+2023-07-23 20:46:24,201 - Model - INFO - Train 12, loss: 0.551797, train acc: 0.734375, train avg acc: 0.680643
+2023-07-23 20:46:35,763 - Model - INFO - Test 12, loss: 0.736733, test acc: 0.612613, test avg acc: 0.577498
+2023-07-23 20:47:01,361 - Model - INFO - Train 13, loss: 0.610703, train acc: 0.685547, train avg acc: 0.626690
+2023-07-23 20:47:12,411 - Model - INFO - Test 13, loss: 0.732062, test acc: 0.572072, test avg acc: 0.597017
+2023-07-23 20:47:37,927 - Model - INFO - Train 14, loss: 0.560774, train acc: 0.699219, train avg acc: 0.652081
+2023-07-23 20:47:49,185 - Model - INFO - Test 14, loss: 0.728450, test acc: 0.630631, test avg acc: 0.509339
+2023-07-23 20:48:16,345 - Model - INFO - Train 15, loss: 0.591818, train acc: 0.703125, train avg acc: 0.652647
+2023-07-23 20:48:27,387 - Model - INFO - Test 15, loss: 0.714417, test acc: 0.639640, test avg acc: 0.516332
+2023-07-23 20:48:52,701 - Model - INFO - Train 16, loss: 0.561580, train acc: 0.708984, train avg acc: 0.645983
+2023-07-23 20:49:04,210 - Model - INFO - Test 16, loss: 0.701240, test acc: 0.612613, test avg acc: 0.532177
+2023-07-23 20:49:29,658 - Model - INFO - Train 17, loss: 0.548611, train acc: 0.730469, train avg acc: 0.687413
+2023-07-23 20:49:40,828 - Model - INFO - Test 17, loss: 0.988875, test acc: 0.468468, test avg acc: 0.530760
+2023-07-23 20:50:06,290 - Model - INFO - Train 18, loss: 0.536111, train acc: 0.734375, train avg acc: 0.690658
+2023-07-23 20:50:17,334 - Model - INFO - Test 18, loss: 0.946070, test acc: 0.459459, test avg acc: 0.520935
+2023-07-23 20:50:42,342 - Model - INFO - Train 19, loss: 0.531460, train acc: 0.751953, train avg acc: 0.725025
+2023-07-23 20:50:54,021 - Model - INFO - Test 19, loss: 0.712459, test acc: 0.581081, test avg acc: 0.581349
+2023-07-23 20:51:19,757 - Model - INFO - Train 20, loss: 0.511239, train acc: 0.757812, train avg acc: 0.720946
+2023-07-23 20:51:31,162 - Model - INFO - Test 20, loss: 0.773399, test acc: 0.549550, test avg acc: 0.531380
+2023-07-23 20:51:56,653 - Model - INFO - Train 21, loss: 0.492228, train acc: 0.781250, train avg acc: 0.748984
+2023-07-23 20:52:07,825 - Model - INFO - Test 21, loss: 0.763910, test acc: 0.603604, test avg acc: 0.542179
+2023-07-23 20:52:32,971 - Model - INFO - Train 22, loss: 0.538816, train acc: 0.738281, train avg acc: 0.694705
+2023-07-23 20:52:43,973 - Model - INFO - Test 22, loss: 0.705966, test acc: 0.662162, test avg acc: 0.604630
+2023-07-23 20:53:09,377 - Model - INFO - Train 23, loss: 0.508019, train acc: 0.773438, train avg acc: 0.733067
+2023-07-23 20:53:20,474 - Model - INFO - Test 23, loss: 0.743840, test acc: 0.630631, test avg acc: 0.565991
+2023-07-23 20:53:45,275 - Model - INFO - Train 24, loss: 0.466890, train acc: 0.781250, train avg acc: 0.758208
+2023-07-23 20:53:56,238 - Model - INFO - Test 24, loss: 0.749715, test acc: 0.617117, test avg acc: 0.547004
+2023-07-23 20:54:21,677 - Model - INFO - Train 25, loss: 0.437177, train acc: 0.806641, train avg acc: 0.781601
+2023-07-23 20:54:32,878 - Model - INFO - Test 25, loss: 0.755427, test acc: 0.689189, test avg acc: 0.617111
+2023-07-23 20:54:58,640 - Model - INFO - Train 26, loss: 0.471163, train acc: 0.779297, train avg acc: 0.747469
+2023-07-23 20:55:09,653 - Model - INFO - Test 26, loss: 0.726713, test acc: 0.621622, test avg acc: 0.558998
+2023-07-23 20:55:34,590 - Model - INFO - Train 27, loss: 0.459698, train acc: 0.789062, train avg acc: 0.768598
+2023-07-23 20:55:45,798 - Model - INFO - Test 27, loss: 1.089497, test acc: 0.500000, test avg acc: 0.560901
+2023-07-23 20:56:10,821 - Model - INFO - Train 28, loss: 0.479653, train acc: 0.767578, train avg acc: 0.736367
+2023-07-23 20:56:21,974 - Model - INFO - Test 28, loss: 1.011036, test acc: 0.639640, test avg acc: 0.505001
+2023-07-23 20:56:47,110 - Model - INFO - Train 29, loss: 0.520113, train acc: 0.748047, train avg acc: 0.723227
+2023-07-23 20:56:57,976 - Model - INFO - Test 29, loss: 0.717892, test acc: 0.635135, test avg acc: 0.617642
+2023-07-23 20:57:22,938 - Model - INFO - Train 30, loss: 0.487250, train acc: 0.783203, train avg acc: 0.753459
+2023-07-23 20:57:34,124 - Model - INFO - Test 30, loss: 0.832811, test acc: 0.594595, test avg acc: 0.591839
+2023-07-23 20:57:58,761 - Model - INFO - Train 31, loss: 0.443015, train acc: 0.804688, train avg acc: 0.783183
+2023-07-23 20:58:09,737 - Model - INFO - Test 31, loss: 0.812702, test acc: 0.617117, test avg acc: 0.541338
+2023-07-23 20:58:34,359 - Model - INFO - Train 32, loss: 0.446583, train acc: 0.796875, train avg acc: 0.769041
+2023-07-23 20:58:45,534 - Model - INFO - Test 32, loss: 0.743973, test acc: 0.666667, test avg acc: 0.616624
+2023-07-23 20:59:10,451 - Model - INFO - Train 33, loss: 0.453916, train acc: 0.781250, train avg acc: 0.759460
+2023-07-23 20:59:21,773 - Model - INFO - Test 33, loss: 0.840875, test acc: 0.554054, test avg acc: 0.560370
+2023-07-23 20:59:46,616 - Model - INFO - Train 34, loss: 0.413231, train acc: 0.816406, train avg acc: 0.784882
+2023-07-23 20:59:57,892 - Model - INFO - Test 34, loss: 0.970108, test acc: 0.644144, test avg acc: 0.539657
+2023-07-23 21:00:23,305 - Model - INFO - Train 35, loss: 0.466802, train acc: 0.759766, train avg acc: 0.726157
+2023-07-23 21:00:34,680 - Model - INFO - Test 35, loss: 0.889073, test acc: 0.617117, test avg acc: 0.513012
+2023-07-23 21:01:00,007 - Model - INFO - Train 36, loss: 0.416189, train acc: 0.806641, train avg acc: 0.781601
+2023-07-23 21:01:10,905 - Model - INFO - Test 36, loss: 0.769023, test acc: 0.603604, test avg acc: 0.553510
+2023-07-23 21:01:36,009 - Model - INFO - Train 37, loss: 0.432126, train acc: 0.804688, train avg acc: 0.784416
+2023-07-23 21:01:47,220 - Model - INFO - Test 37, loss: 0.819256, test acc: 0.581081, test avg acc: 0.584182
+2023-07-23 21:02:12,614 - Model - INFO - Train 38, loss: 0.416316, train acc: 0.806641, train avg acc: 0.790859
+2023-07-23 21:02:24,151 - Model - INFO - Test 38, loss: 0.803978, test acc: 0.558559, test avg acc: 0.578030
+2023-07-23 21:02:49,345 - Model - INFO - Train 39, loss: 0.388690, train acc: 0.830078, train avg acc: 0.816434
+2023-07-23 21:03:00,392 - Model - INFO - Test 39, loss: 0.887976, test acc: 0.540541, test avg acc: 0.564044
+2023-07-23 21:03:25,093 - Model - INFO - Train 40, loss: 0.372610, train acc: 0.824219, train avg acc: 0.805211
+2023-07-23 21:03:36,149 - Model - INFO - Test 40, loss: 0.848174, test acc: 0.603604, test avg acc: 0.542179
+2023-07-23 21:04:01,187 - Model - INFO - Train 41, loss: 0.401812, train acc: 0.832031, train avg acc: 0.819181
+2023-07-23 21:04:12,311 - Model - INFO - Test 41, loss: 0.793695, test acc: 0.630631, test avg acc: 0.580154
+2023-07-23 21:04:37,470 - Model - INFO - Train 42, loss: 0.400209, train acc: 0.826172, train avg acc: 0.806011
+2023-07-23 21:04:48,760 - Model - INFO - Test 42, loss: 0.881770, test acc: 0.612613, test avg acc: 0.554838
+2023-07-23 21:05:13,995 - Model - INFO - Train 43, loss: 0.383810, train acc: 0.824219, train avg acc: 0.813120
+2023-07-23 21:05:25,069 - Model - INFO - Test 43, loss: 0.943201, test acc: 0.536036, test avg acc: 0.549217
+2023-07-23 21:05:51,052 - Model - INFO - Train 44, loss: 0.408491, train acc: 0.812500, train avg acc: 0.790476
+2023-07-23 21:06:02,946 - Model - INFO - Test 44, loss: 0.886401, test acc: 0.554054, test avg acc: 0.577366
+2023-07-23 21:06:28,220 - Model - INFO - Train 45, loss: 0.354558, train acc: 0.859375, train avg acc: 0.845321
+2023-07-23 21:06:39,253 - Model - INFO - Test 45, loss: 0.834410, test acc: 0.585586, test avg acc: 0.590511
+2023-07-23 21:07:04,267 - Model - INFO - Train 46, loss: 0.350831, train acc: 0.845703, train avg acc: 0.831019
+2023-07-23 21:07:15,188 - Model - INFO - Test 46, loss: 0.848351, test acc: 0.630631, test avg acc: 0.619811
+2023-07-23 21:07:41,472 - Model - INFO - Train 47, loss: 0.331902, train acc: 0.847656, train avg acc: 0.828838
+2023-07-23 21:07:57,609 - Model - INFO - Test 47, loss: 0.952706, test acc: 0.603604, test avg acc: 0.564840
+2023-07-23 21:08:23,273 - Model - INFO - Train 48, loss: 0.349094, train acc: 0.845703, train avg acc: 0.838102
+2023-07-23 21:08:34,538 - Model - INFO - Test 48, loss: 1.005464, test acc: 0.594595, test avg acc: 0.526689
+2023-07-23 21:08:59,427 - Model - INFO - Train 49, loss: 0.414508, train acc: 0.833984, train avg acc: 0.816520
+2023-07-23 21:09:10,462 - Model - INFO - Test 49, loss: 0.756894, test acc: 0.612613, test avg acc: 0.577498
+2023-07-23 21:09:35,930 - Model - INFO - Train 50, loss: 0.356154, train acc: 0.853516, train avg acc: 0.830373
+2023-07-23 21:09:46,925 - Model - INFO - Test 50, loss: 1.119198, test acc: 0.653153, test avg acc: 0.557980
+2023-07-23 21:10:11,752 - Model - INFO - Train 51, loss: 0.364865, train acc: 0.849609, train avg acc: 0.831108
+2023-07-23 21:10:22,755 - Model - INFO - Test 51, loss: 1.068910, test acc: 0.630631, test avg acc: 0.534832
+2023-07-23 21:10:47,897 - Model - INFO - Train 52, loss: 0.386395, train acc: 0.833984, train avg acc: 0.818232
+2023-07-23 21:10:58,856 - Model - INFO - Test 52, loss: 0.867606, test acc: 0.540541, test avg acc: 0.549880
+2023-07-23 21:11:23,956 - Model - INFO - Train 53, loss: 0.388012, train acc: 0.828125, train avg acc: 0.808758
+2023-07-23 21:11:34,840 - Model - INFO - Test 53, loss: 0.950682, test acc: 0.513514, test avg acc: 0.577056
+2023-07-23 21:11:59,310 - Model - INFO - Train 54, loss: 0.286275, train acc: 0.878906, train avg acc: 0.870330
+2023-07-23 21:12:10,173 - Model - INFO - Test 54, loss: 1.115743, test acc: 0.603604, test avg acc: 0.530849
+2023-07-23 21:12:35,561 - Model - INFO - Train 55, loss: 0.361177, train acc: 0.841797, train avg acc: 0.829221
+2023-07-23 21:12:46,828 - Model - INFO - Test 55, loss: 1.128883, test acc: 0.518018, test avg acc: 0.569222
+2023-07-23 21:13:11,915 - Model - INFO - Train 56, loss: 0.290280, train acc: 0.873047, train avg acc: 0.865784
+2023-07-23 21:13:23,274 - Model - INFO - Test 56, loss: 0.943682, test acc: 0.576577, test avg acc: 0.611844
+2023-07-23 21:13:49,017 - Model - INFO - Train 57, loss: 0.373355, train acc: 0.849609, train avg acc: 0.825425
+2023-07-23 21:14:00,261 - Model - INFO - Test 57, loss: 0.905471, test acc: 0.563063, test avg acc: 0.530539
+2023-07-23 21:22:54,336 - Model - INFO - Namespace(batch_size=4, dataset='modelnet40', dropout=0.5, emb_dims=1024, epochs=300, eval=False, exp_name='cut1_1024_2023-07-23_21-22', k=20, log_dir=None, lr=0.0005, model='dgcnn', model_path='', momentum=0.9, no_cuda=False, num_points=1024, scheduler='cos', seed=1, test_batch_size=4, use_sgd=False)
+2023-07-23 21:22:55,486 - Model - INFO - Using GPU : 0 from 1 devices
+2023-07-23 21:23:25,665 - Model - INFO - Train 0, loss: 0.699868, train acc: 0.593750, train avg acc: 0.554356
+2023-07-23 21:23:25,669 - Model - INFO - y_true:
+2023-07-23 21:23:25,669 - Model - INFO - [0 1 0 1 1 1 1 1 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1 0 1 1 0 0 0 0 1 1 1 0 1
+ 1 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0
+ 1 1 1 0 0 0 1 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 1 1 0 0 1 1 1 0 0 1 0 0 1
+ 0 1 0 1 0 1 1 1 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0
+ 0 1 0 1 0 0 0 0 1 1 0 1 0 0 1 0 1 1 1 0 0 1 1 0 0 1 0 0 0 0 1 1 0 0 0 0 1
+ 0 0 0 0 0 1 1 0 0 0 1 0 1 0 0 1 1 1 0 0 0 0 0 1 1 1 0 0 1 0 1 0 1 1 1 0 0
+ 0 0 1 1 1 0 0 0 1 0 0 0 1 0 1 0 0 1 1 1 0 1 0 0 1 0 1 0 0 1 1 0 0 1 1 0 0
+ 1 0 0 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 1 1 0 0 0
+ 0 0 1 0 0 1 1 0 0 0 0 1 1 1 1 0 1 0 0 1 0 0 1 0 0 0 0 1 1 0 1 0 0 1 0 0 1
+ 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 0 0 0 0 1 0 1 1 0 0 1 0 0 0 1
+ 0 0 0 0 0 1 1 1 0 0 0 0 0 0 1 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 1 1 0 0 0 1
+ 0 0 1 0 0 0 1 0 1 1 0 0 0 0 1 0 0 1 0 1 1 0 0 0 1 1 0 0 1 1 1 1 0 1 0 1 1
+ 0 1 1 1 0 1 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 1 1 0 0 0 1 1 1 0 1 1 0 1 0
+ 0 0 1 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0]
+2023-07-23 21:23:25,672 - Model - INFO - y_pred:
+2023-07-23 21:23:25,672 - Model - INFO - [0 1 0 1 1 1 0 1 1 0 1 1 1 0 0 1 1 1 1 0 0 1 1 1 0 1 1 0 0 1 1 1 1 1 1 1 1
+ 1 0 1 1 0 1 1 0 1 0 1 1 1 0 1 1 1 0 1 1 1 0 1 0 0 1 1 1 0 1 0 1 1 0 1 1 0
+ 1 1 1 0 1 0 1 1 1 0 1 0 1 1 1 0 0 1 1 0 1 0 1 0 0 1 1 1 0 0 1 1 1 0 1 1 1
+ 0 1 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 0 1 0 0 1 1 0 0 0 0 0 1 0 1 0 0 0 1 1
+ 1 1 0 0 0 1 0 1 1 0 1 0 0 0 0 0 1 0 1 0 0 0 1 0 0 1 1 0 0 0 1 1 0 1 0 0 0
+ 1 0 1 1 0 1 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 1 1 0 0 0 1 0 1 0 1
+ 1 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 0 0 1 0 1 1 0 0 0 1 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1
+ 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1 0 0
+ 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 1 0 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 1
+ 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0 1 0 0 1 0 1
+ 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0
+ 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 0 0 0 1 1 1 0 0 0 0 0 1 0]
+2023-07-23 21:23:36,803 - Model - INFO - Test 0, loss: 0.810664, test acc: 0.423423, test avg acc: 0.507126
+2023-07-23 21:31:31,011 - Model - INFO - Namespace(batch_size=4, dataset='modelnet40', dropout=0.5, emb_dims=1024, epochs=2, eval=False, exp_name='cut1_1024_2023-07-23_21-31', k=20, log_dir=None, lr=0.0005, model='dgcnn', model_path='', momentum=0.9, no_cuda=False, num_points=1024, scheduler='cos', seed=1, test_batch_size=4, use_sgd=False)
+2023-07-23 21:31:32,164 - Model - INFO - Using GPU : 0 from 1 devices
+2023-07-23 21:32:03,787 - Model - INFO - Train 0, loss: 0.735277, train acc: 0.570312, train avg acc: 0.527466
+2023-07-23 21:32:03,794 - Model - INFO - Train 0, f1: 0.385475, recall: 0.381215, precision: 0.389831
+2023-07-23 21:32:15,441 - Model - INFO - Test 0, loss: 0.749701, test acc: 0.486486, test avg acc: 0.541914
+2023-07-23 21:32:15,443 - Model - INFO - Test 0, f1: 0.504348, recall: 0.734177, precision: 0.384106
+2023-07-23 21:32:41,838 - Model - INFO - Train 1, loss: 0.690049, train acc: 0.605469, train avg acc: 0.526374
+2023-07-23 21:32:41,840 - Model - INFO - Train 1, f1: 0.312925, recall: 0.252747, precision: 0.410714
+2023-07-23 21:32:41,844 - Model - INFO - y_true:
+2023-07-23 21:32:41,844 - Model - INFO - [0 0 1 0 0 1 0 0 0 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 0 0 1 0 1
+ 0 1 0 0 1 1 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 1 0 1 1 1 1 0
+ 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1
+ 0 0 0 0 0 0 0 1 0 1 1 1 0 1 0 0 0 0 1 1 0 0 0 0 0 1 1 0 1 0 0 0 1 0 0 0 1
+ 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 1 0 1 0 1 0 0 0 0 1 0 0 1 0 0 1 0 0 1 0 0 0
+ 1 0 0 0 0 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 0 1 0 0 0 0 1 1 1 0 0 0 1 1
+ 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0
+ 0 0 1 0 1 1 0 0 0 1 0 0 1 0 0 0 1 0 1 0 0 1 1 0 1 0 1 0 0 0 0 1 0 0 0 1 1
+ 1 0 0 0 1 1 0 0 1 1 0 1 0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 1 0 1
+ 0 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 1 0 0 1 0 0 1 1 0 0 0 0 0 1 0 0 0 1 0 0 0
+ 0 0 1 0 1 1 0 0 1 0 0 1 1 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 0 0 0 1 1 1 0 0 1
+ 0 0 0 1 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 1 0 1 1 1 1 0 1
+ 1 1 1 0 1 0 0 0 1 0 0 1 1 1 1 1 0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 1
+ 0 0 0 1 1 0 1 0 1 0 0 0 0 1 1 0 0 1 0 1 1 1 0 1 0 0 0 1 1 1 0]
+2023-07-23 21:32:41,846 - Model - INFO - y_pred:
+2023-07-23 21:32:41,846 - Model - INFO - [0 0 0 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+ 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0
+ 0 1 0 1 0 0 1 0 0 0 1 0 0 0 0 1 1 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1
+ 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 1 0 1 0 0 0 0 1 0 1
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 0
+ 1 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1
+ 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 1 1 0 0 0 1
+ 1 0 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0
+ 0 0 0 1 1 1 0 1 1 0 0 0 0 0 0 1 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0
+ 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0
+ 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 1 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0
+ 1 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 1
+ 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 1 0 1
+ 0 0 0 0 1 0 0 0 1 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 1 0]
+2023-07-23 21:32:53,151 - Model - INFO - Test 1, loss: 0.679616, test acc: 0.563063, test avg acc: 0.541870
+2023-07-23 21:32:53,153 - Model - INFO - Test 1, f1: 0.432749, recall: 0.468354, precision: 0.402174
